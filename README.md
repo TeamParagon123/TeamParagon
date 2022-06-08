@@ -1,0 +1,2 @@
+# TeamParagon
+Disease Propagation Model
